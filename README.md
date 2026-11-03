@@ -3,7 +3,7 @@
 A Python-based terminal number guessing game built for a global audience.
 
 ## 🚀 Key Features
-- **Difficulty Modes**: Easy (1~50), Normal (1~100), Hard 
+- **Difficulty Modes**: Easy (1~50), Normal (1~100) 
 - **Error Handling**: Input validation for non-numeric input and out-of-bounds options
 - **Global UI**: Fully localized user interface and warning messages in English
 - **Safe Exit**: Enter `q` anytime to quit, with exit protection (`input()`) to prevent instant terminal closure
